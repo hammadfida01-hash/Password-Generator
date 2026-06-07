@@ -1,4 +1,7 @@
 # React + Vite
+Open on live Server:
+https://hammadfida01-hash.github.io/Password-Generator/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
